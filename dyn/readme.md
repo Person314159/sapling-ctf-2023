@@ -70,6 +70,8 @@ for j in range(32, 127):
 print("".join(lst))
 ```
 
+https://user-images.githubusercontent.com/26018590/216798046-a710575e-b44d-4f26-a30f-3ed377639643.mp4
+
 I would also like to thank desp for the words of encouragement:
 
 ![](dyn-8.png)

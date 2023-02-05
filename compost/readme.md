@@ -72,3 +72,5 @@ print("".join(lst))
 ```
 
 ### Flag: `maple{hello_from_the_decompiler}`
+
+https://user-images.githubusercontent.com/26018590/216798029-4e40419a-7734-4843-a682-1ea1991aac75.mp4

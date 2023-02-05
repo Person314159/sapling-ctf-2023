@@ -32,3 +32,5 @@ for i in "ddddddddddwwwwwwwwwwwwwwwwwaaaaaaawdddddddddddddddddddwwwwwwwwwwwwwwww
     io.send(i)
     time.sleep(0.02)
 ```
+
+https://user-images.githubusercontent.com/26018590/216798017-b3fb474b-4d58-4098-85a2-e631cfa11d67.mp4
