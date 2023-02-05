@@ -89,3 +89,5 @@ print(re.search(r"maple\{[a-zA-Z0-9_!\-\?]+\}", io.recvline().decode())[0])
 ```
 
 ### Flag: `maple{4LL_Y0UR_m0NEy_4Re_8eL0Ng_70_u2}`
+
+https://user-images.githubusercontent.com/26018590/216798003-2855787b-8edb-4e28-8806-38c2ab07e707.mp4
