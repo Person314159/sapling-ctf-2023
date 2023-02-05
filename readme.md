@@ -5,6 +5,6 @@
 # Summary
 mech is too OP. 'Nuff said.
 
-Also, thanks desp for the cheese.
+Also, thanks all of the problem setters for the cheese.
 
 ![](desp.png)
