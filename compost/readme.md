@@ -72,5 +72,3 @@ print("".join(lst))
 ```
 
 ### Flag: `maple{hello_from_the_decompiler}`
-
-![](compost.mp4)

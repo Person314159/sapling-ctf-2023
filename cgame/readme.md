@@ -32,5 +32,3 @@ for i in "ddddddddddwwwwwwwwwwwwwwwwwaaaaaaawdddddddddddddddddddwwwwwwwwwwwwwwww
     io.send(i)
     time.sleep(0.02)
 ```
-
-![](cgame.mp4)

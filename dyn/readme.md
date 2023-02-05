@@ -70,8 +70,6 @@ for j in range(32, 127):
 print("".join(lst))
 ```
 
-![](dyn.mp4)
-
 I would also like to thank desp for the words of encouragement:
 
 ![](dyn-8.png)

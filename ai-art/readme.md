@@ -55,5 +55,3 @@ print(bytes(lst).decode())
 ```
 
 ### Flag: `maple{who_gave_computers_the_right?}`
-
-![](ai-art.mp4)

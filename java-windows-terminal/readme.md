@@ -6,8 +6,6 @@
 ### Solution
 The first thing I googled was "ctf RSA find private key given public key" and literally the first link was https://github.com/RsaCtfTool/RsaCtfTool. Downloaded it, ran `RsaCtfTool.py` on `public.key`, and what do you know, it cracked the private key in about a minute:
 
-![](java-windows-terminal.mp4)
-
 Only after I cracked it with the tool did I realize that `p` and `q` in `generate_keys.py` were suspiciously close 🤦
 
 After that, I tried logging in to http://jwt.ctf.maplebacon.org:8000/login, and yeeted the cookie once I logged in:

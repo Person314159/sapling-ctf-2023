@@ -54,8 +54,6 @@ print("".join(lst))
 
 ### Flag: `maple{1s_Th1s_53lf_Modify1ng_C0d3??}`
 
-![](smc.mp4)
-
 As usual, thanks to desp and kz for their words of encouragement.
 
 ![](smc-2.png)
