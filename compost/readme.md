@@ -73,6 +73,4 @@ print("".join(lst))
 
 ### Flag: `maple{hello_from_the_decompiler}`
 
-<video width="1024" height="560" controls>
-  <source src="./compost.mp4" type="video/mp4">
-</video>
+![](compost.mp4)

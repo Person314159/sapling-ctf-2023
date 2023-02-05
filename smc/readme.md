@@ -54,9 +54,7 @@ print("".join(lst))
 
 ### Flag: `maple{1s_Th1s_53lf_Modify1ng_C0d3??}`
 
-<video width="1024" height="560" controls>
-  <source src="./smc.mp4" type="video/mp4">
-</video>
+![](smc.mp4)
 
 As usual, thanks to desp and kz for their words of encouragement.
 

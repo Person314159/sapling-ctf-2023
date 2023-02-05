@@ -6,9 +6,7 @@
 ### Solution
 The first thing I googled was "ctf RSA find private key given public key" and literally the first link was https://github.com/RsaCtfTool/RsaCtfTool. Downloaded it, ran `RsaCtfTool.py` on `public.key`, and what do you know, it cracked the private key in about a minute:
 
-<video width="1024" height="560" controls>
-  <source src="./java-windows-terminal.mp4" type="video/mp4">
-</video>
+![](java-windows-terminal.mp4)
 
 Only after I cracked it with the tool did I realize that `p` and `q` in `generate_keys.py` were suspiciously close 🤦
 

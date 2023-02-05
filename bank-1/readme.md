@@ -90,6 +90,4 @@ print(re.search(r"maple\{[a-zA-Z0-9_!\-\?]+\}", io.recvline().decode())[0])
 
 ### Flag: `maple{4LL_Y0UR_m0NEy_4Re_8eL0Ng_70_u2}`
 
-<video width="1024" height="560" controls>
-  <source src="./bank-1.mp4" type="video/mp4">
-</video>
+![](bank-1.mp4)

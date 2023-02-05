@@ -70,9 +70,7 @@ for j in range(32, 127):
 print("".join(lst))
 ```
 
-<video width="1024" height="560" controls>
-  <source src="./dyn.mp4" type="video/mp4">
-</video>
+![](dyn.mp4)
 
 I would also like to thank desp for the words of encouragement:
 

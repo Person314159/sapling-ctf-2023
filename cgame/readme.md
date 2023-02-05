@@ -33,6 +33,4 @@ for i in "ddddddddddwwwwwwwwwwwwwwwwwaaaaaaawdddddddddddddddddddwwwwwwwwwwwwwwww
     time.sleep(0.02)
 ```
 
-<video width="1024" height="560" controls>
-  <source src="./cgame.mp4" type="video/mp4">
-</video>
+![](cgame.mp4)

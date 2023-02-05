@@ -56,6 +56,4 @@ print(bytes(lst).decode())
 
 ### Flag: `maple{who_gave_computers_the_right?}`
 
-<video width="1024" height="560" controls>
-  <source src="./ai-art.mp4" type="video/mp4">
-</video>
+![](ai-art.mp4)
