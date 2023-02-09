@@ -26,3 +26,7 @@ But the sneaky organizers hid the flag in a very obscure place:
 ![](around-and-about-4.jpg)
 
 ### Flag: `maple{ctf_in_r34l_l1f3_??_?}`
+
+P.S. I may or may not have captured the flag, in real life.
+
+![](around-and-about-5.jpg)

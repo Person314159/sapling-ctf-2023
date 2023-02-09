@@ -31,4 +31,8 @@ for combo in product(range(16, 0, -1), repeat=8):
         break
 ```
 
+For funsies, I ran the exact same script from `access-1` except changing `range(1, 8)` to `range(1, 16)`, and...
+
+![](access-2-2.png)
+
 ### Flag: `maple{d1V1d3_4ND_c0nQW3R!}`
